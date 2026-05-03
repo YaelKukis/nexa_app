@@ -18,4 +18,7 @@ app.use("/posts", postRoutes);
 app.use("/comments", commentRoutes);
 app.use("/albums", albumRoutes);
 app.use("/photos", photoRoutes);
+
+app.get("/", (req, res) => res.json({ status: "NEXA API is running" }));
+
 module.exports = app;
