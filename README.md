@@ -16,11 +16,11 @@ The project demonstrates frontend architecture, backend engineering, relational 
 
 ### Frontend
 
-https://nexa-fullstack-dashboard.vercel.app/
+https://shimmering-vacherin-2b0a04.netlify.app
 
 ### Backend API
 
-https://nexa-fullstack-dashboard.onrender.com
+https://nexa-app-server.onrender.com
 
 ### Database
 
