@@ -9,7 +9,9 @@ const photoRoutes = require("./routes/photoRoutes");
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://shimmering-vacherin-2b0a04.netlify.app'
+}));
 app.use(express.json());
 
 app.use("/auth", authRoutes);
