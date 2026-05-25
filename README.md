@@ -14,10 +14,6 @@ The project demonstrates frontend architecture, backend engineering, relational 
 
 ## Live Deployment
 
-### Frontend
-
-https://shimmering-vacherin-2b0a04.netlify.app
-
 ### Backend API
 
 https://nexa-app-server.onrender.com
